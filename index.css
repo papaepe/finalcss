@@ -1,0 +1,37 @@
+body{
+    background-color: #DBE4F5;
+}
+nav{
+background-color: #5E6F83;
+}
+.carousel {
+    padding-top: 4rem;
+}
+#about{
+    padding-top: 7rem;
+    padding-bottom: 3rem;
+}
+
+#produk i{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    
+}
+#projects{
+    padding-top: 3rem;
+}
+footer{
+    background-color: #5E6F83;
+    padding-top: 1rem;
+    margin-top: 4rem;
+}
+#produk-pp i{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    
+}
+
